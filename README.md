@@ -1,8 +1,9 @@
-## This test is completed in approx 2.5 hours. This is the demo application, hence limited validation added and focus mainly on happy path scenarios.
+This test is completed in approx. 2.5 hours. This is the demo application; hence limited validation added and focus mainly on happy path scenarios.
 
-## Due to the time constraint certain unit tests are not added. Also code comments were not added.
+Due to the time constraint certain unit tests are not added. Also, code comments were not added.
 
-## The h2database is added as it is memory database and dose not required addional efforts.
+The h2database is used as it is memory database and dose not required additional efforts.
+
 
 ### Building
 
